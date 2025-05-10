@@ -247,7 +247,7 @@ export default function Page() {
         <h4>chicken</h4>
         <input type="number" name="chicken" onChange={handleInputs} />
         <h4>chickpeas</h4>
-        <input type="number" name="chick" onChange={handleInputs} />
+        <input type="number" name="chickpeas" onChange={handleInputs} />
         <h4>soya</h4>
         <input type="number" name="soya" onChange={handleInputs} />
       </div>
